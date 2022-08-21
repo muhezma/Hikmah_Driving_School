@@ -24,7 +24,7 @@ This is an online driving school web app where students register online and watc
 - SPRING,SPRING BOOT, SPRING MVC
 - MySql
 
-##wireframes
+## wireframes
 
 ![1-Home](https://user-images.githubusercontent.com/26819444/185220827-459e4a2b-56be-46ab-a6de-2ff4f98e3b85.png)
 ![2-Login](https://user-images.githubusercontent.com/26819444/185220852-5dbc06d6-9f37-4422-83f6-5915a3f6b425.png)
